@@ -1,0 +1,11 @@
+{
+  "name": "task-1",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Zbynek Pelunek",
+  "license": "ISC"
+}
